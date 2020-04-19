@@ -1,0 +1,99 @@
+*{
+    font-family: Montserrat;
+    overflow-x: hidden;
+}
+/****Home*****/
+.design{
+        background-image: url("https://images.unsplash.com/photo-1568027762272-e4da8b386fe9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80" );
+        background-size: 100vh;
+        color: whitesmoke;
+        font: 300 16px/22px;
+        padding: 10%;
+        padding-top: 200px;
+        padding-bottom: 300px;
+        height:;
+    background-position: center;
+    background-size: cover;
+}
+.sq{
+    height: 3px;
+    width: 300px;
+    display: inline-block;
+    background: #ff4400;
+    margin: 15px 0;
+
+
+    /***About ***/
+
+}
+.about{
+  padding: 100px;
+  text-align: center;
+}
+.about-content{
+  margin: 30px;
+}
+hr{
+  align-items: center;
+  width: 20%;
+}
+.about-design{
+  color: #777777;
+        font: 300 16px/22px;
+        padding: 10%;
+        padding-top: 200px;
+        padding-bottom: 300px;
+        padding-left: 200px;
+        padding-right: 100px;
+        height: 120%;
+        float: right;
+        text-align: right;
+}
+#about-design{
+  color: #333333;
+  font-size: 16px;
+}
+
+/****Blog designing*****/
+.blog-design
+{
+  text-align: center;
+}
+.img-svg1{
+  background-image: url("https://image.flaticon.com/icons/svg/1841/1841124.svg");
+}
+
+.blog{
+  font-family: 'Caveat', cursive;
+  font-size: 24px;
+}
+
+/***Footer****/
+.footer-top {
+  padding: 60px 0;
+  background: #333;
+  text-align: left;
+  color: #aaa;
+}
+.footer-bottom {
+  padding: 15px 0;
+  background: #444;
+  text-align: left;
+  color: #aaa;
+}
+.footer-social i {
+  font-size: 24px;
+  vertical-align: middle;
+}
+.fab{
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+.fa-map-marker-alt:before {
+  content: "\f3c5";
+}
